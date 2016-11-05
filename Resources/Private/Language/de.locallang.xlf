@@ -297,7 +297,7 @@
 			</trans-unit>
 			<trans-unit id="tx_yag_controller_gallery.noGallerySelected" approved="yes">
 				<source>No gallery has beeen selected!</source>
-				<target>Es wurde keine Galerie ausgwählt!</target>
+				<target>Es wurde keine Galerie ausgewählt!</target>
 			</trans-unit>
 			<trans-unit id="tx_yag_controller_gallery.gallerySuccessfullyDeleted" approved="yes">
 				<source>Gallery %s has been deleted!</source>
