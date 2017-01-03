@@ -500,7 +500,7 @@
 				<target>Bilder als ZIP-Datei herunterladen</target>
 			</trans-unit>
 			<trans-unit id="tx_yag_controller_item.noItemSelected" approved="yes">
-				<source>No item has beeen selected!</source>
+				<source>No item has been selected!</source>
 				<target>Es wurden keine Bilder ausgewählt!</target>
 			</trans-unit>
 			<trans-unit id="tx_yag_controller_item.downloadOrig" approved="yes">
